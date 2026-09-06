@@ -1,16 +1,15 @@
-# React + Vite
+# 🚀 FitAI Pro
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+**FitAI Pro**, kullanıcıların fiziksel özelliklerine, spora ayırabilecekleri zamana, hedeflerine ve bulundukları konuma (Ev/Salon) göre **yapay zeka destekli akıllı antrenman programları ve makro besin analizleri** üreten profesyonel bir web uygulamasıdır.
 
-Currently, two official plugins are available:
+🔗 **Canlı Demo (Live Demo):** [Buraya Tıklayarak Projeyi Test Edebilirsiniz](https://fit-ai-p8436b1gs-mirac9.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## ✨ Özellikler (Features)
+- **🧠 Akıllı Algoritma:** Yaş, boy, kilo, cinsiyet ve aktivite seviyesine göre **TDEE, Protein, Karbonhidrat, Yağ ve Su** ihtiyacını kusursuz hesaplar.
+- **🏋️‍♂️ Dinamik Antrenman Takvimi:** Haftada 3'ten 6 güne kadar, kişinin seçtiği zamana (30dk - 90dk) ve konuma (Ev/Salon) göre set sayılarını ve hareketleri otomatik optimize eder.
+- **🌍 Çoklu Dil Desteği (i18n):** Türkçe ve İngilizce dilleri arasında veriler kaybolmadan anında geçiş.
+- **🌗 Tema Seçeneği (Dark/Light Mode):** Kullanıcı dostu, modern tasarım.
+- **💾 Veri Kalıcılığı & Favoriler (LocalStorage):** Kullanıcı verileri tarayıcı hafızasına kaydedilir, programlar favorilere eklenebilir.
+- **📖 Egzersiz Rehberi Modalı:** Hareketlerin nereyi çalıştırdığını ve nasıl yapıldığını gösteren interaktif bilgi pencereleri.
